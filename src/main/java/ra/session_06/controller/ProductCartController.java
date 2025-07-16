@@ -8,7 +8,7 @@ import ra.session_06.service.ProductCartService;
 
 import java.util.List;
 
-@RestControllergit
+@RestController
 @RequestMapping("/carts")
 public class ProductCartController {
 
